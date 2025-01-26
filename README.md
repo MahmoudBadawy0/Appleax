@@ -1,3 +1,3 @@
 # Appleax
 
-live : appleax-ten.vercel.app
+live : https://appleax-ten.vercel.app/
